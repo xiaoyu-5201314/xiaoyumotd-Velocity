@@ -1,0 +1,8 @@
+image-motd:
+  # 使用的图片缓存文件名
+  # 缓存文件存储在 plugins/XiaoyuMotd/cache/ 目录下
+  image: MOTD.cache
+
+# MineSkin API Key
+# 请前往 https://mineskin.org/ 注册并获取密钥
+api-key: ""
